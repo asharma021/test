@@ -1,4 +1,9 @@
 # test
+
+In my role, I led efforts to simplify business processes and strengthen controls within testing, enhancing organizational productivity and the client experience. I focused on Price Risk and Finance Data Quality, aligning testing practices with Citi's regulatory and governance commitments. By implementing Data Lineage and supporting Data Ownership, I helped ensure transparency and actionable insights into data health. My leadership in these areas contributed to a well-governed data environment that meets high-quality standards. This approach supports Citi’s vision of improved productivity and data integrity across the organization.
+
+
+
 Financial Performance 
 
 As a tester supporting the team’s Agile transformation, focus on integrating testing seamlessly into each sprint. Collaborate closely with developers and stakeholders to ensure testing is aligned with Agile practices, enabling continuous feedback and quick adaptations. By refining test cases, sharing insights during Agile ceremonies, and ensuring quality at every stage, contribute to a smoother, more responsive Agile workflow that boosts team efficiency and product quality.
